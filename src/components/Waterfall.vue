@@ -41,7 +41,7 @@ export default {
     top: 0;
     height: 100%;
     width: calc(50% - 200px + 10px);
-    background-image: linear-gradient(#C7845A, #9F603F);
+    background-color: #b17550;
   }
 
   ul {
